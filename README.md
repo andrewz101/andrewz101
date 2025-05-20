@@ -1,8 +1,16 @@
 ## Hi there 👋
 git clone https://github.com/andrewz101/andrewz101.git
-cd andrewz101 
-chmod +x   "ipr.sh"                                   
+
+
+cd andrewz101
+
+
+chmod +x   "ipr.sh"
+
+
 cd ipr.sh\
+
+
 ./ipr.sh
 
 <!--
