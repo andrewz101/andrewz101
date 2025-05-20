@@ -1,4 +1,17 @@
 ## Hi there 👋
+git clone https://github.com/andrewz101/andrewz101.git
+
+
+cd andrewz101
+
+
+chmod +x   "ipr.sh"
+
+
+cd ipr.sh\
+
+
+./ipr.sh
 
 <!--
 **andrewz101/andrewz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
